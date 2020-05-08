@@ -1,6 +1,8 @@
+---
 layout: page
 title: "About Me"
 permalink: /about-me/
+---
 
 ## Welcome to GitHub Pages
 
